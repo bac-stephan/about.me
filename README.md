@@ -29,7 +29,8 @@
 
 > H.Hesse
 
-![Image of Hesse](https://commons.wikimedia.org/wiki/File:Hermann_Hesse_1926_by_Gret_Widmann.jpeg#/media/Datei:Hermann_Hesse_1926_by_Gret_Widmann.jpeg)
+![Image of Hesse](https://commons.wikimedia.org/wiki/File:Hermann_Hesse_1927_Photo_Gret_Widmann.jpg#/media/File:Hermann_Hesse_1927_Photo_Gret_Widmann.jpg)
+
 
 
 

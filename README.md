@@ -1,5 +1,5 @@
 
-# Stufen
+># Stufen
 > 
 >
 > Wie jede Blüte welkt und jede Jugend
@@ -28,3 +28,12 @@
 > Wohl an denn, Herz, nimm Abschied und gesunde !
 
 > H.Hesse
+
+![Image of Hesse](https://commons.wikimedia.org/wiki/File:Hermann_Hesse_1926_by_Gret_Widmann.jpeg#/media/Datei:Hermann_Hesse_1926_by_Gret_Widmann.jpeg)
+
+
+
+
+
+
+
